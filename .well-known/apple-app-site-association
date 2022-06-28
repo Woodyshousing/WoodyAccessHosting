@@ -1,0 +1,11 @@
+{
+        "applinks": {
+            "apps": [],
+            "details": [
+                {
+                    "appID": "TRVBMB3KPB.com.woodyshousing.woodyaccess",
+                    "paths": [ "/portal/*", ]
+                }
+            ]
+        }
+}
