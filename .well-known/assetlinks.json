@@ -1,9 +1,11 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.woodyshousing.woodyaccess",
-    "sha256_cert_fingerprints":
-    ["A6:6D:09:04:87:8E:53:93:C9:12:1C:A3:FB:6C:8E:18:FC:21:38:0D:88:E7:8E:12:BA:A2:6F:BF:10:54:5F:27"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.woodyshousing.woodyaccess",
+      "sha256_cert_fingerprints":
+      ["A6:6D:09:04:87:8E:53:93:C9:12:1C:A3:FB:6C:8E:18:FC:21:38:0D:88:E7:8E:12:BA:A2:6F:BF:10:54:5F:27"]
+    }
   }
-}]
+]
